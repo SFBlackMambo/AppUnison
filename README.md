@@ -1,3 +1,5 @@
+![EntidadRelacionappingen drawio (1)](https://github.com/SFBlackMambo/AppUnison/assets/38169197/c1826471-ec8a-4b40-8f10-6cd82249fe3d)
+
 # AppUnison
 **APP web para visitas industriales de la facultad interdisiplinaria de ingenieria**
 
